@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dimen_item_layout_height">30dp</dimen>
+    <dimen name="padding_vertical">6dp</dimen>
+    <dimen name="padding_horizontal">16dp</dimen>
+    <dimen name="margin_item_vertical">1dp</dimen>
+    <dimen name="padding_widget_list_top">16dp</dimen>
+    <dimen name="padding_horizontal_widget_item">6dp</dimen>
+    <dimen name="padding_vertical_widget_item">3dp</dimen>
+    <dimen name="widget_margin">8dp</dimen>
+</resources>
